@@ -1,8 +1,8 @@
-# Kanishk City
+# Stark Sky
 
 A 3D city you fly through. Every tower is one of my projects. Fly the armored hero into a glowing ring to open it.
 
-**Play:** https://kanishksaini-007.github.io/kanishk-city/
+**Play:** https://kanishksaini-007.github.io/stark-sky/
 
 I made this to learn 3D on the web. It is built with [three.js](https://threejs.org/) (WebGL) on a plain page, no game engine and no framework.
 
