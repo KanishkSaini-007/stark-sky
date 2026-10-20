@@ -1,4 +1,4 @@
-# Stark Sky - NYC edition
+# Stark Sky
 
 A living stylized New York City flight portfolio built while learning three.js. Fly an original red-and-gold armored hero with a full helmet, over avenues with moving traffic, past walking pedestrians, visit NYC landmarks and open 12 interactive project towers.
 
